@@ -24,7 +24,7 @@ module.exports = (phase, { defaultConfig }) => {
         ...defaultConfig,
         poweredByHeader: false,
         reactStrictMode: true, // Good Practice apparently
-        basePath: '/nextjs-template',
+        basePath: '/products-releases',
         headers: headers,
     };
 
